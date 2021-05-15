@@ -180,7 +180,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1130;
 				LastUpgradeCheck = 1240;
-				ORGANIZATIONNAME = maksymbordyugov;
+				ORGANIZATIONNAME = maksymbordiuhov;
 				TargetAttributes = {
 					65A4B34124325886006B459D = {
 						CreatedOnToolsVersion = 11.3.1;
@@ -385,7 +385,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = maksymbordyugov.newsApp;
+				PRODUCT_BUNDLE_IDENTIFIER = maksymbordiuhov.newsApp;
 				PRODUCT_NAME = newsApp;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
@@ -403,7 +403,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = maksymbordyugov.newsApp;
+				PRODUCT_BUNDLE_IDENTIFIER = maksymbordiuhov.newsApp;
 				PRODUCT_NAME = newsApp;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
