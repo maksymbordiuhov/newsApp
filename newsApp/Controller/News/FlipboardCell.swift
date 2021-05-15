@@ -2,8 +2,8 @@
 //  FlipboardCell.swift
 //  newsApp
 //
-//  Created by Maksym Bordyugov on 12.05.2021.
-//  Copyright © 2021 Maksym Bordyugov. All rights reserved.
+//  Created by Maksym Bordiuhov on 12.05.2021.
+//  Copyright © 2021 Maksym Bordiuhov. All rights reserved.
 //
 
 import UIKit
